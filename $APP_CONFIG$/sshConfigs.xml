@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="oknet.no-ip.org" id="0727f4a8-1e6c-4871-87b3-693c77edf8fe" port="2422" nameFormat="DESCRIPTIVE" username="bryan" />
+    </configs>
+  </component>
+</application>

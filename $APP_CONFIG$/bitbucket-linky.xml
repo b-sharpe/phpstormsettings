@@ -1,0 +1,13 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <lookup>
+      <record scheme="https" hostname="bitbucket.org" port="-1" instance="Production" />
+      <record scheme="ssh" hostname="bitbucket.org" port="-1" instance="Production" />
+    </lookup>
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances />
+    <lookup />
+  </component>
+  <component name="Instance" id="06ceb496-7ed4-4cdb-b975-f32d74aacf2a" version="2020.3.142" />
+</application>

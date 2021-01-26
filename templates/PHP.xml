@@ -1,0 +1,39 @@
+<templateSet group="PHP">
+  <template name="dform" value="$form = array();&#10;&#10;$form[$fieldset$] = array(&#10;  '#title' =&gt; t(&quot;$title$&quot;),&#10;  '#type' =&gt; 'fieldset',&#10;);&#10;&#10;$form[$fieldset$][$field$] = array(&#10;  '#title' =&gt; t(&quot;$field_title$&quot;),&#10;  '#type' =&gt; '$type$',&#10;  '#default_value' =&gt; $dv$,&#10;);&#10;&#10;return $form;" description="Drupal form" toReformat="false" toShortenFQNames="true">
+    <variable name="fieldset" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="field_title" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="dv" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="wdp" value="watchdog('$msg$', '&lt;pre&gt;' . print_r($someshit$, true));" description="Watchdog printr mutha fucka" toReformat="false" toShortenFQNames="true">
+    <variable name="msg" expression="" defaultValue="debug" alwaysStopAt="true" />
+    <variable name="someshit" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="wd" value="watchdog('$msg$', '$someshit$');" description="Watchdog mutha fucka" toReformat="false" toShortenFQNames="true">
+    <variable name="msg" expression="" defaultValue="&quot;debug&quot;" alwaysStopAt="false" />
+    <variable name="someshit" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="fe" value="$form['$key$'] = [&#10;  '#title' =&gt; $this-&gt;t('$title$'),&#10;  '#type' =&gt; 'textfield',&#10;];" description="Drupal form element" toReformat="false" toShortenFQNames="true">
+    <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="wd8" value="\Drupal::logger('$text')-&gt;notice($message);" description="D8 Watchdog" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
