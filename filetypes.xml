@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="env" type=".env file" />
       <mapping ext="info" type="Ini" />
       <mapping pattern=".lighthouserc.json " type="JSON" />
       <mapping ext="install" type="PHP" />
@@ -25,7 +26,6 @@
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="asf" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="save" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
