@@ -2,8 +2,50 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="info" type="Ini" />
+      <mapping pattern=".lighthouserc.json " type="JSON" />
       <mapping ext="install" type="PHP" />
-      <removed_mapping ext="env" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping pattern="alias" type="PLAIN_TEXT" />
+      <mapping pattern="init" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="test1" type="PLAIN_TEXT" />
+      <mapping pattern="safa" type="PLAIN_TEXT" />
+      <mapping pattern="tester" type="PLAIN_TEXT" />
+      <mapping pattern="sfafs" type="PLAIN_TEXT" />
+      <mapping pattern="swat" type="PLAIN_TEXT" />
+      <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="test.js" type="PLAIN_TEXT" />
+      <mapping pattern="blt" type="PLAIN_TEXT" />
+      <mapping pattern=".hold" type="PLAIN_TEXT" />
+      <mapping pattern="easda" type="PLAIN_TEXT" />
+      <mapping pattern="gl" type="PLAIN_TEXT" />
+      <mapping pattern="_redirects" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern="asf" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="save" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="csr" type="PLAIN_TEXT" />
+      <mapping pattern="watch" type="Shell Script" />
+      <mapping pattern="behat-swarm" type="Shell Script" />
+      <mapping pattern="lighthouse-checks" type="Shell Script" />
+      <mapping pattern="build" type="Shell Script" />
+      <mapping ext="twg" type="Twig" />
+      <removed_mapping pattern="_main.scss" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="entity_quick_fields.module" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="build" type="Bash" />
+      <mapping pattern="cex" type="Bash" />
+      <mapping pattern="hooks" type="Bash" />
+      <mapping pattern="icons" type="Bash" />
+      <mapping pattern="pre-push" type="Bash" />
+      <mapping pattern="setup" type="Bash" />
+      <mapping pattern="sync" type="Bash" />
+      <mapping pattern="watch" type="Bash" />
     </extensionMap>
   </component>
 </application>
