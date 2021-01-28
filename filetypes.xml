@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="env" type=".env file" />
       <mapping ext="info" type="Ini" />
       <mapping pattern=".lighthouserc.json " type="JSON" />
       <mapping ext="install" type="PHP" />
