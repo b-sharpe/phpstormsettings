@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="npx" type="AUTO_DETECTED" />
       <mapping ext="info" type="Ini" />
       <mapping pattern=".lighthouserc.json " type="JSON" />
       <mapping ext="install" type="PHP" />
