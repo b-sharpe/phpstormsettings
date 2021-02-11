@@ -22,7 +22,7 @@
     <mask>*.scss</mask>
     <mask>views.*</mask>
     <mask>*yml</mask>
-    <mask>*.js</mask>
     <mask>*.yml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
