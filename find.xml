@@ -18,11 +18,11 @@
     <mask>*.engine</mask>
     <mask>*.hphp</mask>
     <mask>*.module</mask>
-    <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>views.*</mask>
     <mask>*yml</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
