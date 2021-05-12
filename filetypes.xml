@@ -27,6 +27,8 @@
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="asf" type="PLAIN_TEXT" />
+      <mapping pattern=".environement" type="PLAIN_TEXT" />
+      <mapping pattern=".environment" type="PLAIN_TEXT" />
       <mapping ext="save" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
