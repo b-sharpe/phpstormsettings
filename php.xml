@@ -4,6 +4,7 @@
       <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/www/openedu/bin/phpcs" />
     </phpcs_settings>
   </component>
+  <component name="PhpDebugGeneral" xdebug_resolve_breakpoints="false" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="578183d0-9995-4bdb-887b-cb8257052344" name="Remote PHP 5.5" home="sshConfig://DATA" debugger_id="php.debugger.XDebug">
