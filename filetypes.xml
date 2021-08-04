@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="fix" type="AUTO_DETECTED" />
+      <mapping pattern="mtb" type="AUTO_DETECTED" />
+      <mapping pattern="mx" type="AUTO_DETECTED" />
       <mapping pattern="npx" type="AUTO_DETECTED" />
       <mapping ext="info" type="Ini" />
       <mapping pattern=".lighthouserc.json " type="JSON" />
