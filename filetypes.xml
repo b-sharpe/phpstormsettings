@@ -42,6 +42,7 @@
       <mapping pattern="behat-swarm" type="Shell Script" />
       <mapping pattern="lighthouse-checks" type="Shell Script" />
       <mapping pattern="build" type="Shell Script" />
+      <mapping ext="eample" type="Shell Script" />
       <mapping ext="twg" type="Twig" />
       <removed_mapping pattern="_main.scss" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="entity_quick_fields.module" approved="true" type="PLAIN_TEXT" />
