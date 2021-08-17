@@ -1,10 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="fix" type="AUTO_DETECTED" />
-      <mapping pattern="sync" type="AUTO_DETECTED" />
       <mapping pattern="mtb" type="AUTO_DETECTED" />
+      <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="mx" type="AUTO_DETECTED" />
       <mapping pattern="npx" type="AUTO_DETECTED" />
       <mapping ext="info" type="Ini" />
@@ -14,35 +13,33 @@
       <mapping ext="engine" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping pattern="alias" type="PLAIN_TEXT" />
-      <mapping pattern="init" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern="test1" type="PLAIN_TEXT" />
-      <mapping pattern="safa" type="PLAIN_TEXT" />
       <mapping pattern="tester" type="PLAIN_TEXT" />
-      <mapping pattern="sfafs" type="PLAIN_TEXT" />
-      <mapping pattern="swat" type="PLAIN_TEXT" />
-      <mapping pattern="test2" type="PLAIN_TEXT" />
-      <mapping pattern="test.js" type="PLAIN_TEXT" />
-      <mapping pattern="blt" type="PLAIN_TEXT" />
-      <mapping pattern=".hold" type="PLAIN_TEXT" />
-      <mapping pattern="easda" type="PLAIN_TEXT" />
-      <mapping pattern="gl" type="PLAIN_TEXT" />
-      <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <mapping pattern="asf" type="PLAIN_TEXT" />
+      <mapping pattern="test.js" type="PLAIN_TEXT" />
+      <mapping pattern="init" type="PLAIN_TEXT" />
+      <mapping pattern="swat" type="PLAIN_TEXT" />
+      <mapping pattern="easda" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="_redirects" type="PLAIN_TEXT" />
+      <mapping pattern="safa" type="PLAIN_TEXT" />
+      <mapping pattern="sfafs" type="PLAIN_TEXT" />
       <mapping pattern=".environement" type="PLAIN_TEXT" />
+      <mapping pattern="test1" type="PLAIN_TEXT" />
+      <mapping pattern=".hold" type="PLAIN_TEXT" />
+      <mapping pattern="alias" type="PLAIN_TEXT" />
+      <mapping pattern="gl" type="PLAIN_TEXT" />
       <mapping pattern=".environment" type="PLAIN_TEXT" />
+      <mapping pattern="blt" type="PLAIN_TEXT" />
+      <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="asf" type="PLAIN_TEXT" />
       <mapping ext="save" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping pattern="watch" type="Shell Script" />
       <mapping pattern="behat-swarm" type="Shell Script" />
       <mapping pattern="lighthouse-checks" type="Shell Script" />
-      <mapping pattern="build" type="Shell Script" />
       <mapping ext="eample" type="Shell Script" />
       <mapping ext="twg" type="Twig" />
       <removed_mapping pattern="_main.scss" approved="true" type="PLAIN_TEXT" />
