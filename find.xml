@@ -24,5 +24,6 @@
     <mask>*.install</mask>
     <mask>*.js</mask>
     <mask>*.yml</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
