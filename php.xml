@@ -222,6 +222,9 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="promptFindUsagesOfBaseMethod" value="false" />
+  </component>
   <component name="PhpUnit">
     <phpunit_settings>
       <phpunit_by_interpreter interpreter_id="2282eeb0-cadb-4332-b6fe-fdce1feafbf5" configuration_file_path="/home/bryan/www/d8/wwwroot/core/phpunit.xml.dist" custom_loader_path="/home/bryan/www/d8/wwwroot/vendor/autoload.php" use_configuration_file="true" />
