@@ -36,4 +36,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="dw" value="Drush::output()-&gt;writeln($END$);" description="Drush Output" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
