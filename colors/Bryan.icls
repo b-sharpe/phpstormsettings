@@ -751,10 +751,20 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="fdf3c0" />
+      </value>
+    </option>
+    <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ffea81" />
+      </value>
+    </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="101" />
-        <option name="BACKGROUND" value="c7c7ff" />
+        <option name="BACKGROUND" value="eefffd" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
