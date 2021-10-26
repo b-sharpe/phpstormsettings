@@ -20,7 +20,6 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>views.*</mask>
-    <mask>*yml</mask>
     <mask>*.install</mask>
     <mask>*.rb</mask>
     <mask>*.scss</mask>
@@ -33,5 +32,6 @@
     <mask>core.entity_form_display.commerce_product_variation.mb*.default.yml</mask>
     <mask>core.entity_form_display.commerce_product_variation.mx*.default.yml</mask>
     <mask>*.php</mask>
+    <mask>*yml</mask>
   </component>
 </application>
