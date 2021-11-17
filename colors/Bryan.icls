@@ -1310,7 +1310,7 @@
     </option>
     <option name="PHP_DOC_COMMENT_ID">
       <value>
-        <option name="FOREGROUND" value="dee2e2" />
+        <option name="FOREGROUND" value="ff4630" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1335,11 +1335,6 @@
         <option name="FOREGROUND" value="2baaff" />
       </value>
     </option>
-    <option name="PHP_FUNCTION_CALL">
-      <value>
-        <option name="FOREGROUND" value="f8fffd" />
-      </value>
-    </option>
     <option name="PHP_HEREDOC_ID">
       <value>
         <option name="FOREGROUND" value="ffdd00" />
@@ -1347,7 +1342,7 @@
     </option>
     <option name="PHP_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="ff5656" />
+        <option name="FOREGROUND" value="ff4630" />
       </value>
     </option>
     <option name="PHP_INSTANCE_FIELD">
@@ -1429,7 +1424,7 @@
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="73d4" />
+        <option name="FOREGROUND" value="81e7" />
       </value>
     </option>
     <option name="PHP_VAR_VAR">
