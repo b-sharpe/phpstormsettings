@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.module" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -16,7 +17,6 @@
     <mask>*.profile</mask>
     <mask>*.engine</mask>
     <mask>*.hphp</mask>
-    <mask>*.module</mask>
     <mask>views.*</mask>
     <mask>*.install</mask>
     <mask>*.rb</mask>
@@ -31,5 +31,6 @@
     <mask>*.php</mask>
     <mask>*yml</mask>
     <mask>*.js</mask>
+    <mask>*.module</mask>
   </component>
 </application>
