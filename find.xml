@@ -27,9 +27,9 @@
     <mask>field.field.commerce_product_variation.mx_*.field_mx_more_info.yml</mask>
     <mask>core.entity_form_display.commerce_product_variation.mb*.default.yml</mask>
     <mask>core.entity_form_display.commerce_product_variation.mx*.default.yml</mask>
-    <mask>*yml</mask>
     <mask>*.js</mask>
     <mask>*.module</mask>
     <mask>*.php</mask>
+    <mask>*yml</mask>
   </component>
 </application>
