@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -20,7 +21,6 @@
     <mask>*.rb</mask>
     <mask>*.scss</mask>
     <mask>*.yml</mask>
-    <mask>*.twig</mask>
     <mask>core.entity_form*.yml</mask>
     <mask>field.field.commerce_product_variation.mb_*.field_mb_more_info.yml</mask>
     <mask>field.field.commerce_product_variation.mx_*.field_mx_more_info.yml</mask>
@@ -31,5 +31,6 @@
     <mask>*.html</mask>
     <mask>*yml</mask>
     <mask>*.module</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
