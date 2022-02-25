@@ -25,11 +25,11 @@
     <mask>core.entity_form_display.commerce_product_variation.mb*.default.yml</mask>
     <mask>core.entity_form_display.commerce_product_variation.mx*.default.yml</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*.html</mask>
     <mask>*yml</mask>
     <mask>*.twig</mask>
     <mask>*.scss</mask>
     <mask>*.module</mask>
+    <mask>*.php</mask>
   </component>
 </application>
