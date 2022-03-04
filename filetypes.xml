@@ -16,7 +16,6 @@
       <mapping pattern="tester" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="test.js" type="PLAIN_TEXT" />
-      <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping pattern="swat" type="PLAIN_TEXT" />
       <mapping pattern="easda" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
