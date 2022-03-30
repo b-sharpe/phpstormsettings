@@ -28,10 +28,10 @@
     <mask>*.html</mask>
     <mask>*yml</mask>
     <mask>*.rb</mask>
-    <mask>*.module</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.twig</mask>
+    <mask>*.module</mask>
   </component>
 </application>
