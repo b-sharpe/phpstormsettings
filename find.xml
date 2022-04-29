@@ -11,7 +11,6 @@
     <mask>*.xml</mask>
     <mask>*.inc</mask>
     <mask>*.ctp</mask>
-    <mask>*.theme</mask>
     <mask>*.php4</mask>
     <mask>*.php5</mask>
     <mask>*.phtml</mask>
@@ -35,5 +34,6 @@
     <mask>*.module</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.theme</mask>
   </component>
 </application>
