@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -20,7 +21,6 @@
     <mask>*.hphp</mask>
     <mask>views.*</mask>
     <mask>*.install</mask>
-    <mask>*.yml</mask>
     <mask>core.entity_form*.yml</mask>
     <mask>field.field.commerce_product_variation.mb_*.field_mb_more_info.yml</mask>
     <mask>field.field.commerce_product_variation.mx_*.field_mx_more_info.yml</mask>
@@ -35,5 +35,6 @@
     <mask>*.php</mask>
     <mask>*.theme</mask>
     <mask>*.js</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
