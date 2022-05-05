@@ -32,6 +32,7 @@
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="asf" type="PLAIN_TEXT" />
       <mapping ext="save" type="PLAIN_TEXT" />
+      <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
