@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.install" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -16,7 +16,6 @@
     <mask>*.engine</mask>
     <mask>*.hphp</mask>
     <mask>views.*</mask>
-    <mask>*.install</mask>
     <mask>core.entity_form*.yml</mask>
     <mask>field.field.commerce_product_variation.mb_*.field_mb_more_info.yml</mask>
     <mask>field.field.commerce_product_variation.mx_*.field_mx_more_info.yml</mask>
@@ -32,5 +31,6 @@
     <mask>*.js</mask>
     <mask>*.module</mask>
     <mask>*.scss</mask>
+    <mask>*.install</mask>
   </component>
 </application>
