@@ -16,7 +16,6 @@
       <mapping pattern="tester" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="test.js" type="PLAIN_TEXT" />
-      <mapping pattern="swat" type="PLAIN_TEXT" />
       <mapping pattern="easda" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
@@ -28,7 +27,6 @@
       <mapping pattern="alias" type="PLAIN_TEXT" />
       <mapping pattern="gl" type="PLAIN_TEXT" />
       <mapping pattern=".environment" type="PLAIN_TEXT" />
-      <mapping pattern="blt" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="asf" type="PLAIN_TEXT" />
       <mapping ext="save" type="PLAIN_TEXT" />
