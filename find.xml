@@ -31,7 +31,7 @@
     <mask>*.install</mask>
     <mask>*.php</mask>
     <mask>*.module</mask>
-    <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
