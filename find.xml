@@ -29,8 +29,8 @@
     <mask>*.module</mask>
     <mask>*.info.yml</mask>
     <mask>*.install</mask>
-    <mask>*.twig</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
