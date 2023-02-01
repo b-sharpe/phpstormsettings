@@ -23,7 +23,6 @@
     <mask>*.html</mask>
     <mask>*yml</mask>
     <mask>*.rb</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.info.yml</mask>
     <mask>*.install</mask>
@@ -32,5 +31,6 @@
     <mask>*.scss</mask>
     <mask>*.theme</mask>
     <mask>*.js</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
