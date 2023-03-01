@@ -6,6 +6,7 @@
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="mx" type="AUTO_DETECTED" />
       <mapping pattern="components" type="AUTO_DETECTED" />
+      <mapping pattern="cypress" type="AUTO_DETECTED" />
       <mapping pattern="npx" type="AUTO_DETECTED" />
       <mapping ext="info" type="Ini" />
       <mapping pattern=".lighthouserc.json " type="JSON" />
